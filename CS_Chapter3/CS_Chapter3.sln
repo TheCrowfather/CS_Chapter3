@@ -1,17 +1,19 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowRate", "CheckLowRate\CheckLowRate.csproj", "{2F7FD764-610A-40F5-8A5D-0F1753531882}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowRate.cs", "CheckLowRate\CheckLowRate.cs.csproj", "{2F7FD764-610A-40F5-8A5D-0F1753531882}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowAndHighRate", "CheckLowAndHighRate\CheckLowAndHighRate.csproj", "{090F8151-FE70-4D88-8230-F18B912E03D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckLowAndHighRate.cs", "CheckLowAndHighRate\CheckLowAndHighRate.cs.csproj", "{090F8151-FE70-4D88-8230-F18B912E03D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRate", "EnsureValidPayRate\EnsureValidPayRate.csproj", "{D8286C02-6E10-432D-988B-BFB8A13D8763}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRate.cs", "EnsureValidPayRate\EnsureValidPayRate.cs.csproj", "{D8286C02-6E10-432D-988B-BFB8A13D8763}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{466342D0-638F-41CA-A72B-40C507F7C8A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture.cs", "Furniture\Furniture.cs.csproj", "{466342D0-638F-41CA-A72B-40C507F7C8A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission", "Admission\Admission.csproj", "{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admission.cs", "Admission\Admission.cs.csproj", "{B04C8BF1-3679-46C0-984B-F4A8AB1ED3C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{26FFE77D-FD7F-4E86-B007-BB88D851D020}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll.cs", "Payroll\Payroll.cs.csproj", "{26FFE77D-FD7F-4E86-B007-BB88D851D020}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
